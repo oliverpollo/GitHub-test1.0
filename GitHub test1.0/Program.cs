@@ -2,3 +2,5 @@
 Console.WriteLine("Test 1, 2, 3! Er der hul igennem??");
 
 Console.WriteLine("Test dio");
+
+Console.WriteLine("Tester om Test class fungerer"); 
